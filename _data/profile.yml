@@ -1,0 +1,74 @@
+primary_name: "乔纳森"
+secondary_name: "王晋一"
+navbar_name: "Homepage"
+
+positions:
+- logo: /assets/images/badges/usc.png  # Logo is optional
+  name: M.S. in Spatial Data Science
+# - name: Position 2 without logo
+
+
+email: "wjy553121373@gmail.com"
+cv_link: /assets/CV/JinyiWang-NG.pdf  #IDK
+github: jinyi415
+wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_prompt: >- 
+  请告诉我您的 <strong>姓名</strong> 和 <strong>公司</strong>（当前或过去），以及您 <strong>添加我微信的原因</strong>。谢谢！
+linkedin: jinyi-wang-a97a972b0
+
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>  
+      我是一名充满激情的数据分析师，致力于利用数据驱动业务洞察并解决复杂挑战。凭借扎实的技术专长和丰富的实践经验，我擅长从复杂数据集中提取可操作的见解，设计创新解决方案，并在各种项目中交付有影响力的成果。  
+  </p>  
+  <p>  
+      <i class="fa-solid fa-rectangle-ad" style="color: #d60000;"></i> <span style="color: #d60000;">我正在寻找全职职位</span>  
+      我正在寻找数据分析、技术支持或产品管理领域的全职职位，希望能够运用我的技术能力、分析专长和商业洞察力，提供创新解决方案并推动组织成功。我渴望加入一个重视创新和问题解决的合作型、充满活力的团队。  
+      欢迎通过电子邮件或微信与我联系。  
+  </p>
+
+portrait_url: /assets/images/photos/profile.jpg
+portrait_caption: >-
+  你的唯一限制就是你自己。
+
+education:
+- name: 南加州大学
+  logo: /assets/images/badges/usc.png
+  position: 空间数据科学硕士
+  date: 2023年8月 - 至今
+- name: 杭州电子科技大学
+  logo: /assets/images/badges/HDU.png
+  position: 信息管理与信息系统学士
+  date: 2019年9月 - 2023年7月
+
+
+experience:
+- name: 联想美国
+  logo: /assets/images/badges/lenovopng.png
+  position: 数据分析师
+  date: 2024年9月 - 2024年12月
+
+- name: 杭州时平信息技术有限公司
+  logo: /assets/images/badges/shiping.jpg
+  position: 数据分析师
+  date: 2024年6月 - 2024年8月
+
+- name: 浙江大学
+  logo: /assets/images/badges/ZJU.png
+  position: 技术支持专员
+  date: 2022年5月 - 2023年5月
+
+
+awards:
+- name: 南加州大学系级奖学金
+  date: 2025年1月
+- name: 大学三等奖学金
+  date: 2023年6月
+- name: “挑战杯”竞赛三等奖
+  date: 2021年9月
+- name: 电子商务竞赛二等奖
+  date: 2021年5月
+- name: 案例分析竞赛二等奖
+  date: 2020年8月
+
