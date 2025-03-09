@@ -1,10 +1,10 @@
-primary_name: "乔纳森"
-secondary_name: "王晋一"
-navbar_name: "Homepage"
+primary_name: "王晋一"
+secondary_name:
+navbar_name: "主页"
 
 positions:
 - logo: /assets/images/badges/usc.png  # Logo is optional
-  name: M.S. in Spatial Data Science
+  name: 空间数据科学硕士
 # - name: Position 2 without logo
 
 
